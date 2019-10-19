@@ -1,0 +1,2 @@
+# spherical_mirror_aberr
+The light striking a vertical plane at a distance f from a mirror is spread over a circular disk. The light from the centre of the mirror strikes the centre of the disk, but light arriving from a point a distance x from the centre of the mirror strikes the plane on a circle with diameter d. The function calculates d for all values of x, then it calculates the mean blur diameter.
